@@ -1,0 +1,3 @@
+We are looking for a Data Science Intern with experience in Python, data analysis, and machine learning.
+Knowledge of pandas, NumPy, matplotlib, and scikit-learn is required.
+Familiarity with natural language processing (NLP) and web app development using Streamlit is a plus.
